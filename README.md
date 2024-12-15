@@ -1,0 +1,1 @@
+This project is a console-based trading tool that integrates Reinforcement Learning (RL) and dynamic money management strategies to optimize trading decisions. The system evaluates trades using technical and fundamental factors, predicts the best course of action, and dynamically adjusts risk based on probabilities derived from the RL model.
